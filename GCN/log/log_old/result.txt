@@ -1,0 +1,272 @@
+Start parsing:  log_sbm50_link_pred_egcn_o_20200515131653_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.005',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '5'}
+Highest map values among all epochs: TRAIN  0.5537	VALID  0.2899	TEST 0.2199
+Values at best Valid Epoch (7) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (7) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (7) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (7) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (7) MAP: TRAIN  0.54776847 - VALID 0.28993839 - TEST 0.21985319
+Values at best Valid Epoch (7) MRR: TRAIN  0.00000000 - VALID 0.14545465 - TEST 0.10789423
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517080942_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.013219411484660288',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '7'}
+Highest map values among all epochs: TRAIN  0.5772	VALID  0.3342	TEST 0.2624
+Values at best Valid Epoch (8) for target class: TEST Precision 0.1591 - Recall 0.9776 - F1 0.2737
+Values at best Valid Epoch (8) micro-AVG: TEST Precision 0.2793 - Recall 0.2793 - F1 0.2793
+Values at best Valid Epoch (8) for target class@1000: TEST Precision 0.1591 - Recall 0.9776 - F1 0.2737
+Values at best Valid Epoch (8) micro-AVG@1000: TEST Precision 0.2793 - Recall 0.2793 - F1 0.2793
+Values at best Valid Epoch (8) MAP: TRAIN  0.51960188 - VALID 0.33418009 - TEST 0.26240262
+Values at best Valid Epoch (8) MRR: TRAIN  0.00000000 - VALID 0.13079162 - TEST 0.11712494
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517081109_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.0001873817422860383',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '3'}
+Highest map values among all epochs: TRAIN  0.5666	VALID  0.3570	TEST 0.3488
+Values at best Valid Epoch (10) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (10) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (10) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (10) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (10) MAP: TRAIN  0.56656694 - VALID 0.35695869 - TEST 0.34731823
+Values at best Valid Epoch (10) MRR: TRAIN  0.00000000 - VALID 0.21701434 - TEST 0.24415793
+Start parsing:  log_sbm50_link_pred_egcn_o_20200515134600_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.005',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '5'}
+Highest map values among all epochs: TRAIN  0.5537	VALID  0.3308	TEST 0.2623
+Values at best Valid Epoch (9) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (9) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (9) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (9) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (9) MAP: TRAIN  0.53307080 - VALID 0.33080614 - TEST 0.25498560
+Values at best Valid Epoch (9) MRR: TRAIN  0.00000000 - VALID 0.12149569 - TEST 0.11782228
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517080956_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.026560877829466867',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '9'}
+Highest map values among all epochs: TRAIN  0.4425	VALID  0.2523	TEST 0.1417
+Values at best Valid Epoch (7) for target class: TEST Precision 0.1320 - Recall 0.8704 - F1 0.2293
+Values at best Valid Epoch (7) micro-AVG: TEST Precision 0.1873 - Recall 0.1873 - F1 0.1873
+Values at best Valid Epoch (7) for target class@1000: TEST Precision 0.1320 - Recall 0.8704 - F1 0.2293
+Values at best Valid Epoch (7) micro-AVG@1000: TEST Precision 0.1873 - Recall 0.1873 - F1 0.1873
+Values at best Valid Epoch (7) MAP: TRAIN  0.36218065 - VALID 0.25225779 - TEST 0.14173232
+Values at best Valid Epoch (7) MRR: TRAIN  0.00000000 - VALID 0.13538025 - TEST 0.12497997
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517081126_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.0004037017258596554',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '1'}
+Highest map values among all epochs: TRAIN  0.5876	VALID  0.3736	TEST 0.3570
+Values at best Valid Epoch (8) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (8) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (8) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (8) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (8) MAP: TRAIN  0.58427984 - VALID 0.37358555 - TEST 0.34982556
+Values at best Valid Epoch (8) MRR: TRAIN  0.00000000 - VALID 0.24816535 - TEST 0.22168124
+Start parsing:  log_sbm50_link_pred_egcn_o_20200515134934_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.005',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '5'}
+Highest map values among all epochs: TRAIN  0.5537	VALID  0.3308	TEST 0.2623
+Values at best Valid Epoch (9) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (9) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (9) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (9) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (9) MAP: TRAIN  0.53307080 - VALID 0.33080614 - TEST 0.25498560
+Values at best Valid Epoch (9) MRR: TRAIN  0.00000000 - VALID 0.12149569 - TEST 0.11782228
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517081008_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.061359072734131756',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '2'}
+Highest map values among all epochs: TRAIN  0.4808	VALID  0.2885	TEST 0.2442
+Values at best Valid Epoch (10) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (10) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (10) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (10) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (10) MAP: TRAIN  0.45923474 - VALID 0.28848854 - TEST 0.23394875
+Values at best Valid Epoch (10) MRR: TRAIN  0.00000000 - VALID 0.11218650 - TEST 0.11548729
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517081145_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.07564633275546291',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '5'}
+Highest map values among all epochs: TRAIN  0.3884	VALID  0.1428	TEST 0.1389
+Values at best Valid Epoch (7) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (7) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (7) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (7) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (7) MAP: TRAIN  0.32066184 - VALID 0.14277777 - TEST 0.13888890
+Values at best Valid Epoch (7) MRR: TRAIN  0.00000000 - VALID 0.15479788 - TEST 0.11925499
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517074751_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.1',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '5'}
+Highest map values among all epochs: TRAIN  0.3275	VALID  0.1428	TEST 0.1400
+Values at best Valid Epoch (7) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (7) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (7) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (7) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (7) MAP: TRAIN  0.32066184 - VALID 0.14277777 - TEST 0.14000000
+Values at best Valid Epoch (7) MRR: TRAIN  0.00000000 - VALID 0.15479788 - TEST 0.11862323
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517081024_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.04328761281083057',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '7'}
+Highest map values among all epochs: TRAIN  0.5194	VALID  0.3014	TEST 0.2636
+Values at best Valid Epoch (9) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (9) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (9) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (9) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (9) MAP: TRAIN  0.50077790 - VALID 0.30135396 - TEST 0.26359296
+Values at best Valid Epoch (9) MRR: TRAIN  0.00000000 - VALID 0.10203276 - TEST 0.11536602
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517081201_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.023101297000831605',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '9'}
+Highest map values among all epochs: TRAIN  0.5573	VALID  0.3263	TEST 0.2919
+Values at best Valid Epoch (10) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (10) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (10) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (10) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (10) MAP: TRAIN  0.54919004 - VALID 0.32628033 - TEST 0.25552478
+Values at best Valid Epoch (10) MRR: TRAIN  0.00000000 - VALID 0.13368021 - TEST 0.14177123
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517074919_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.0093260334688322',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '5'}
+Highest map values among all epochs: TRAIN  0.5843	VALID  0.3324	TEST 0.3027
+Values at best Valid Epoch (8) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (8) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (8) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (8) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (8) MAP: TRAIN  0.54069060 - VALID 0.33244058 - TEST 0.28183019
+Values at best Valid Epoch (8) MRR: TRAIN  0.00000000 - VALID 0.13887623 - TEST 0.12945996
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517081040_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.0013219411484660286',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '6'}
+Highest map values among all epochs: TRAIN  0.5866	VALID  0.3534	TEST 0.3089
+Values at best Valid Epoch (9) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (9) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (9) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (9) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (9) MAP: TRAIN  0.57206547 - VALID 0.35337123 - TEST 0.29912764
+Values at best Valid Epoch (9) MRR: TRAIN  0.00000000 - VALID 0.12462340 - TEST 0.11207439
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517075455_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.03274549162877728',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '2'}
+Highest map values among all epochs: TRAIN  0.5026	VALID  0.2956	TEST 0.2496
+Values at best Valid Epoch (10) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (10) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (10) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (10) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (10) MAP: TRAIN  0.46175089 - VALID 0.29561400 - TEST 0.24957259
+Values at best Valid Epoch (10) MRR: TRAIN  0.00000000 - VALID 0.10244327 - TEST 0.12232616
+Start parsing:  log_sbm50_link_pred_egcn_o_20200517081055_r0.log
+str_params:
+ {'adj_mat_time_window': '1',
+ 'class_weights': '[0.1',
+ 'cls_feats': '100',
+ 'layer_1_feats': '100',
+ 'learning_rate': '0.0004328761281083057',
+ 'lstm_l1_feats': '100',
+ 'model': "'egcn_o'",
+ 'num_hist_steps': '8'}
+Highest map values among all epochs: TRAIN  0.5841	VALID  0.3462	TEST 0.3331
+Values at best Valid Epoch (8) for target class: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (8) micro-AVG: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (8) for target class@1000: TEST Precision 0.1389 - Recall 1.0000 - F1 0.2439
+Values at best Valid Epoch (8) micro-AVG@1000: TEST Precision 0.1389 - Recall 0.1389 - F1 0.1389
+Values at best Valid Epoch (8) MAP: TRAIN  0.58407634 - VALID 0.34619951 - TEST 0.32142031
+Values at best Valid Epoch (8) MRR: TRAIN  0.00000000 - VALID 0.11632065 - TEST 0.09502187
